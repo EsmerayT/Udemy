@@ -10,6 +10,10 @@ html {
 
 body {
   margin: 0;
-  background-color: #3f3f3f;
+  /* background-color: lightgray; */
+  background-image: url("https://preview.redd.it/dygu1ukgg8o61.png?width=1122&format=png&auto=webp&s=93dea2937eef83dcba47c8c7d75ef25be076da3c");
+  background-repeat: no-repeat;
+  background-size: cover;
+  
 }
 
