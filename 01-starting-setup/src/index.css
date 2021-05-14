@@ -11,9 +11,11 @@ html {
 body {
   margin: 0;
   /* background-color: lightgray; */
-  background-image: url("https://preview.redd.it/dygu1ukgg8o61.png?width=1122&format=png&auto=webp&s=93dea2937eef83dcba47c8c7d75ef25be076da3c");
+  background-image: url("https://global-uploads.webflow.com/5e3396fc2524a2846621fa7d/5e52de113373091cf7f68abc_gradient-4.png");
+  /* background-image: url("https://preview.redd.it/dygu1ukgg8o61.png?width=1122&format=png&auto=webp&s=93dea2937eef83dcba47c8c7d75ef25be076da3c"); */
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 60%;
+  background-color: #f7f6f1;
   
 }
 
